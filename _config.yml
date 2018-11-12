@@ -1,5 +1,5 @@
 # Site settings
-title: 我去写张个博客冷静一下
+title: 想静静
 SEOTitle: XHN的博客 | XHN Blog
 header-img: img/post-bg-desk.jpg
 email: hn.xu261220@gmail.com
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
+        title: "XHN",
         href: "http://zhengwuyang.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·XHN",
+        href: "http://www.jianshu.com/u/"
     },{
         title: "Apple",
         href: "https://apple.com"
